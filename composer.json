@@ -1,0 +1,21 @@
+{
+    "name": "dmitrysuprun/csv",
+    "description": "task",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DmitrySuprun",
+            "email": "dmitry.suprun.mehanik@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "stable",
+
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "4.8.*"
+    }
+}
